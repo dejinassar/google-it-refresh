@@ -15,7 +15,7 @@ Google IT Support Refresher
 | Week 4+ | AWS, Terraform, Monitoring | 🔜 Coming Soon |
 
 ---
-
+<!-- 
 ## 📁 Folder Structure
 
 google-it-refresh/
@@ -26,7 +26,7 @@ google-it-refresh/
 ├── notes/ # General notes + markdown summaries
 ├── screenshots/ # Terminal screenshots for proof
 ├── projects/ # Mini-projects or config demos
-└── README.md
+└── README.md -->
 
 ---
 
@@ -39,7 +39,7 @@ All CLI exercises will include:
 
 ---
 
-## 🧠 Topics Covered
+## Topics Covered
 
 - [x] Operating Systems
 - [x] Linux + Bash
@@ -49,7 +49,7 @@ All CLI exercises will include:
 
 ---
 
-## 📅 Weekly Reflections
+<!-- ## 📅 Weekly Reflections
 
 ### ✅ Week 1 (Aug 4 – Aug 10)
 - Refreshed Google IT Support content
@@ -61,8 +61,8 @@ All CLI exercises will include:
 - Python scripting + automation projects
 - Cron jobs, log monitors, bulk renamers
 
----
-
+--- -->
+<!-- 
 ## 🔗 Blog / Medium Posts
 
 - 📘 Post 1 (Aug 15): “What I Relearned from Google IT Support”
@@ -73,4 +73,4 @@ All CLI exercises will include:
 ## 📢 LinkedIn Posts
 
 - ✅ Week 1 Recap: *Coming Aug 12*
-- ✅ Week 2 Recap: *Coming Aug 19*
+- ✅ Week 2 Recap: *Coming Aug 19* -->
