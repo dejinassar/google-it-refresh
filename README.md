@@ -1,67 +1,40 @@
 Google IT Support Refresher
 
 > A complete refresh of the Google IT Support fundamentals — with notes, CLI screenshots, and hands-on examples.  
-> Documented and updated weekly as part of my DevOps journey. 🧠⚙️
+> Documented and updated weekly as part of my DevOps journey. 
+
+# DevOps Foundations – Week 1 (Aug 4–10)
+
+This repo documents my DevOps learning journey and practical hands-on tasks from August 4 to August 10. It covers core IT support concepts, Linux basics, networking, security, and system administration.
+
+## Daily Breakdown
+
+- **Aug 4:** OS & Hardware Basics 
+- **Aug 5:** Linux CLI + Bash 
+- **Aug 6:** Networking Essentials 
+- **Aug 7:** System Administration 
+- **Aug 8:** Security Basics 
+- **Aug 9:** Mini Troubleshooting Project 
+- **Aug 10:** Clean-up + Final Push + Weekly Review
+
+## Screenshots
+
+Find all CLI outputs and screenshots in the `/screenshots/` directory.
+
+## Reflection
+
+I write daily reflections summarizing what I’ve learned, what was challenging, and how I improved.
+
+## Tools Used
+
+- Ubuntu Linux
+- Git & GitHub
+- Bash
 
 ---
 
-## 🔄 Weekly Progress
+> Follow my progress on LinkedIn and Medium where I’ll post weekly reviews and write-ups.
 
-| Week | Focus | Status |
-|------|-------|--------|
-| Week 1 | Google IT Support Topics | ✅ In Progress |
-| Week 2 | Python + Automation | 🔜 Coming Soon |
-| Week 3 | Docker + Git + CI/CD | 🔜 Coming Soon |
-| Week 4+ | AWS, Terraform, Monitoring | 🔜 Coming Soon |
-
----
-<!-- 
-## 📁 Folder Structure
-
-google-it-refresh/
-├── linux/ # Linux commands, scripts, notes
-├── networking/ # Networking commands + concepts
-├── admin/ # System Admin concepts
-├── security/ # Cybersecurity notes & demos
-├── notes/ # General notes + markdown summaries
-├── screenshots/ # Terminal screenshots for proof
-├── projects/ # Mini-projects or config demos
-└── README.md -->
-
----
-
-## 📸 Proof (Screenshots & Demos)
-
-All CLI exercises will include:
-- 📷 Screenshots of terminal output
-- 🧪 Sample configs
-- 📝 Markdown notes or scripts
-
----
-
-## Topics Covered
-
-- [x] Operating Systems
-- [x] Linux + Bash
-- [x] Networking (IP, DNS, Ping, etc)
-- [x] System Administration
-- [x] Security Fundamentals
-
----
-
-<!-- ## 📅 Weekly Reflections
-
-### ✅ Week 1 (Aug 4 – Aug 10)
-- Refreshed Google IT Support content
-- Rebuilt notes with hands-on terminal demos
-- Set up GitHub + Notion system
-- Posting recap to LinkedIn (Aug 12)
-
-### 🔜 Week 2 (Aug 11 – Aug 17)
-- Python scripting + automation projects
-- Cron jobs, log monitors, bulk renamers
-
---- -->
 <!-- 
 ## 🔗 Blog / Medium Posts
 
