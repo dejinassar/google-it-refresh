@@ -17,7 +17,7 @@ ls -l filename
 ```
 Output example:
 ```bash
--rwxr--r-- 1 user group 1234 Mar 28 10:00 myfile.sh
+-rwxr--r-- 1 user group 1234  myfile.sh
 ```
 
 ## Changing Permissions with `chmod`
